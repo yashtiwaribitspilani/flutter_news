@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 import 'news_repository.dart';
 
 class NewsApi extends NewsRepository {
-  final keyApi = 'a51671adb7b143a5b4a72bc6e35079bb';
+  final keyApi = '1f9a7fe92f22428e8585bdc504ffed8a';
 
   @override
   Future<List<Article>> fetchAllNews() async {
