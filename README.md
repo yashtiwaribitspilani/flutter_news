@@ -9,5 +9,7 @@
 
 
 -Above images demonstrate the app really well. It uses http plugin to fetch news from newsapi.org
+
 https://github.com/yashtiwaribitspilani/flutter_news/assets/115389165/694d3f4a-949e-4ada-a564-79cdc410bbfb
+
 -This video demonstrates the proper usage of the app.
